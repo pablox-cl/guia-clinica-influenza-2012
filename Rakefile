@@ -9,7 +9,7 @@ OUTPUT="guia_influenza.epub"
 
 desc "Convierte a epub"
 task :epub_all do
-  system "pandoc -S #{EPUB_METADATA} #{EPUB_COVER_IMAGE} -o #{OUTPUT} title.txt *.markdown"
+  system "pandoc -S --table-of-contents #{EPUB_METADATA} #{EPUB_COVER_IMAGE} -o #{OUTPUT} title.txt *.markdown"
   system "ebook-viewer #{OUTPUT}"
 end
 
