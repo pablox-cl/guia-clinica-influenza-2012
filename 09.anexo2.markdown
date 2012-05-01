@@ -1,0 +1,44 @@
+Anexo 2. Antivirales disponibles para tratamiento y quimioprofilaxis de influenza
+=================================================================================
+
+Existen diferentes tipos de medicamentos antivirales que se han utilizado para el tratamiento de la influenza, entre estos los inhibidores de la neuraminidasa (oseltamivir y zanamivir) y los adamantanos (amantadina y rimantadina).
+
+Los virus de influenza A(H1N1)2009, A(H3N2) e influenza B han demostrado ser susceptibles a los inhibidores de la neuraminidasa por lo tanto son los medicamentos de elección para su tratamiento, cuando éste está indicado. A pesar de que mundialmente se han detectado casos aislados de resistencia para influenza A(H1N1)2009, en Chile a la fecha no se han detectado cepas resistentes a los inhibidores de neuraminidasas. 
+
+Por otra parte, el virus influenza A (H1N1) 2009 y A (H3N2) son resistentes a amantadina y rimantadina. Los adamantanos no están indicados para el tratamiento del virus Influenza B.
+
+El uso de antivirales en embarazadas de cualquier edad gestacional y mujeres en lactancia, con diagnóstico de influenza debe ser indicado considerando que el beneficio sea mayor que el riesgo de la enfermedad (clasificación C según la FDA). En las embarazadas hospitalizadas por IRAG o compromiso sistémico por influenza, el tratamiento de elección es oseltamivir.
+
+Precauciones y Reacciones Adversas
+----------------------------------
+
+### Oseltamivir: ###
+
+A.  Precauciones:
+
+    i.  Reacciones de hipersensibilidad cutánea graves: discontinuar el medicamento y sustituir por el fármaco apropiado
+    ii.  Síntomas Neuro-Psiquiátricos: Pacientes con influenza, incluídos aquellos recibiendo Oseltamivir, en particular pacientes pediátricos, pudiesen tener un mayor riesgo de confusión o alteraciones conductuales.
+
+B.  Reacciones Adversas: Las reacciones adversas más comunes (>1% y más común que con placebo) son:
+
+    i. Nausea (Tratamiento y Quimioprofilaxis)
+    ii. Vómitos (Tratamiento y Quimioprofilaxis)
+    iii. Diarrea (Sólo en estudios de Quimioprofilaxis)
+    iv. Dolor Abdominal (Sólo en estudios de Quimioprofilaxis)
+
+### Zanamivir: ###
+
+A.  Precauciones: 
+
+    i.  Broncoespasmo: Han ocurrido casos graves y en ocaciones con resultado fatal. No se recomienda utilizar este medicamento en personas con antecedentes de enfermedades de la vía aérea. Se debe descontinuar el zanamivir en casos que se produzca broncoespasmo o declinación de la función respiratoria.
+    ii.  Reacciones alérgicas: Se debe suspender e iniciar tratamiento acorde si se sospecha o diagnostica una reacción alérgica al zanamivir.
+    iii. Síntomas Neuro-Psiquiátricos: Pacientes con influenza, en particular pacientes pediátricos, pudiesen tener un mayor riesgo de convulsiones, confusión o alteraciones conductuales.
+    iv.  Pacientes con comorbilidades de alto riesgo: la Seguridad no ha sido demostrada para este tipo de pacientes.
+
+B.  Reacciones Adversas: Las reacciones adversas más comunes (>1,5% y más común que con placebo) son:
+
+    i. Sinusitis (Estudios de tratamiento Tratamiento)
+    ii. Mareos (Estudios de tratamiento Tratamiento)
+    iii. Fiebre y/o Calofríos (Estudios de Quimioprofilaxis)
+    iv. Artralgia (Estudios de Quimioprofilaxis)
+    v. Reumatismo articular (Estudios de Quimioprofilaxis)

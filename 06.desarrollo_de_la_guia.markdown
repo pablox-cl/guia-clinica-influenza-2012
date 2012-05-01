@@ -1,0 +1,119 @@
+DESARROLLO DE LA GUÍA 
+=====================
+
+GRUPO DE TRABAJO
+----------------
+
+En la revisión y actualización de la Versión 4.2 de esta guía participaron:
+
+--------------------------  --------------------------------------------------------
+Dr. Christian García        Jefe del Departamento de Enfermedades Transmisibles 
+                            División de Prevención y Control de Enfermedades
+                            Ministerio de Salud 
+E.U. Patricia Contreras     Departamento de Enfermedades Transmisibles
+                            División de Prevención y Control de Enfermedades
+                            Ministerio de Salud 
+Dr. Ricardo Sepúlveda       Broncopulmonar Depto de Enfermedades No transmisibles
+                            División de Prevención y Control de Enfermedades
+                            Ministerio de Salud 
+Dr. Fernando Otaíza         Control de infecciones
+                            Departamento de Calidad y Seguridad del Paciente 
+                            Subsecretaría de Redes Asistenciales 
+                            Ministerio de Salud
+Dra. Cecilia Perret         Pediatra e infectologa
+                            Pontificia Universidad Católica de Chile 
+BQ. Rodrigo Fasce           Sección Virus Respiratorios y Exantemáticos
+                            Dpto. de Laboratorio Biomédico Nacional y de Referencia 
+                            Instituto de Salud Pública de Chile 
+E.U. Viviana Sotomayor      Unidad de Vigilancia 
+                            Dpto. Epidemiología
+                            División de Planificación Sanitaria
+                            Ministerio de Salud 
+Dra. Bárbara Galleguillos   Unidad de Vigilancia
+                            Dpto. Epidemiología
+                            División de Planificación Sanitaria
+                            Ministerio de Salud 
+Dra. Jeannette Dabanch      Infectóloga Hospital Militar
+                            Asesora Depto Epidemiología
+                            División de Planificación Sanitaria 
+QF. Soledad Del Campo       Depto de Gestión de Medicamentos e Insumos
+                            Subsecretaria Redes Asistencial 
+                            Ministerio de Salud 
+Dr. José Luis Contreras     Médico de Familia
+                            Servicio de Atención Primaria de Urgencias
+                            Fundación Cristo Vive, Recoleta 
+Dr. Henry Zambrano          Centro de Salud Familiar
+                            Dr. Salvador Allende, Huechuraba 
+Klgo. Rodrigo Fernandez     Sala Mixta IRA-ERA
+                            Consultorio Los Libertadores, Huechuraba 
+Klgo. Francisco Molina      Sala ERA-Postrados
+                            Centro de Salud Familiar Villa Alegre, Temuco 
+E.U. Felipe Cortés          Hospital Metropolitano 
+                            Agente de Salud Responde
+--------------------------  --------------------------------------------------------
+
+Autores de va Version 4.1:
+
+--------------------------  --------------------------------------------------------
+Dr. Jan Paul Wilhelm        Pediatra Infectólogo
+                            Asesor del Depto. de Inmunizaciones 
+Dra. Cecilia Perret         Pediatra e infectologa
+                            Pontificia Universidad Católica de Chile 
+BQ. Rodrigo Fasce           Sección Virus Respiratorios y Exantemáticos
+                            Dpto. de Laboratorio Biomédico Nacional y de Referencia 
+                            Instituto de Salud Pública de Chile 
+E.U. Viviana Sotomayor      Unidad de Vigilancia 
+                            Dpto. Epidemiología
+                            División de Planificación Sanitaria
+                            Ministerio de Salud
+Dr. Jorge Vergara           Pediatra Infectólogo
+                            Hospital Exequiel Gonzáles Cortes 
+Dr. Fernando Otaíza         Control de infecciones
+                            Departamento de Calidad y Seguridad del Paciente 
+                            Subsecretaría de Redes Asistenciales 
+                            Ministerio de Salud
+QF. Soledad Del Campo       Depto de Gestión de Medicamentos e Insumos
+                            Subsecretaria Redes Asistencial 
+                            Ministerio de Salud 
+Dra. Marisol Rivera         Asesora del Departamento de Coordinación de la Red Asistencial
+                            Servicio de Salud Metropolitano Oriente 
+Dra. Jeannette Dabanch      Infectóloga Hospital Militar
+                            Asesora Depto Epidemiología
+                            División de Planificación Sanitaria
+--------------------------  --------------------------------------------------------
+
+Adaptación de la Versión 4.2 para dispositivos Móviles y Tablets:
+
+--------------------------  --------------------------------------------------------
+Dr. Christian García        Jefe del Departamento de Enfermedades Transmisibles
+                            División de Prevención y Control de Enfermedades
+                            Ministerio de Salud 
+Pablo Olmos De Aguilera     Interno de Medicina
+                            Universidad Católica del Norte
+                            Autor en matasanos.org
+--------------------------  --------------------------------------------------------
+
+
+DECLARACIÓN DE CONFLICTOS DE INTERÉS
+------------------------------------
+
+Los Autores de la Versión 4.1 (2011) como los revisores en la actualización para la versión 4.2 (2012) declararon no tener conflictos de interés.
+
+REVISIÓN DE LA LITERATURA
+--------------------------
+
+Se realizó una búsqueda amplia de estudios científicos publicados sobre las materias Evaluadas. Las bases de datos consultadas fueron: 
+
+*  Guías clínicas y estudios disponibles a través de Tripdatabase
+*  National Guideline Clearinghouse, National Institute of Health, USA
+*  Cochrane Database of Systematic Reviews
+*  Database of Abstracts of Reviews of Effectiveness (DARE) (base de datos producida por el UK NHS Centre for Reviews and Dissemination de la Universidad de York)
+*  Medline (base de datos de la National Library of Medicine de EE.UU.)
+*  Lilacs (base de datos de Literatura Latinoamericana y del Caribe en Ciencias de la Salud). 
+
+Los idiomas fueron inglés y español y se evaluaron los estudios con resúmenes disponibles para una primera selección. Se privilegió el análisis de guías clínicas que respondieran a los estándares de AGREE Collaboration, revisiones sistemáticas y ensayos clínicos aleatorizados.
+
+VIGENCIA Y ACTUALIZACIÓN DE LA GUÍA
+-----------------------------------
+
+La versión 4.2 de esta guía deberá ser revisada en un plazo máximo de 1 año, pudiendo ser actualizada durante la temporada de invierno del presente año, según la evolución de la endemia de la influenza en el país. 
