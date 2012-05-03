@@ -1,7 +1,7 @@
 ﻿Desarrollo de la Guía
 =====================
 
-GRUPO DE TRABAJO
+Grupo de trabajo
 ----------------
 
 En la revisión y actualización de la Versión 4.2 de esta guía participaron:
@@ -93,13 +93,13 @@ Pablo Olmos De Aguilera     Interno de Medicina
 --------------------------  --------------------------------------------------------
 
 
-DECLARACIÓN DE CONFLICTOS DE INTERÉS
+Declaración de conflictos de interés
 ------------------------------------
 
 Los Autores de la Versión 4.1 (2011) como los revisores en la actualización para la versión 4.2 (2012) declararon no tener conflictos de interés.
 
-REVISIÓN DE LA LITERATURA
---------------------------
+Revisión de la literatura
+-------------------------
 
 Se realizó una búsqueda amplia de estudios científicos publicados sobre las materias Evaluadas. Las bases de datos consultadas fueron: 
 
@@ -112,7 +112,7 @@ Se realizó una búsqueda amplia de estudios científicos publicados sobre las m
 
 Los idiomas fueron inglés y español y se evaluaron los estudios con resúmenes disponibles para una primera selección. Se privilegió el análisis de guías clínicas que respondieran a los estándares de AGREE Collaboration, revisiones sistemáticas y ensayos clínicos aleatorizados.
 
-VIGENCIA Y ACTUALIZACIÓN DE LA GUÍA
+Vigencia y actualización de la guía
 -----------------------------------
 
 La versión 4.2 de esta guía deberá ser revisada en un plazo máximo de 1 año, pudiendo ser actualizada durante la temporada de invierno del presente año, según la evolución de la endemia de la influenza en el país. 

@@ -1,4 +1,4 @@
-ALCANCE
+Alcance
 =======
 
 La versión 4.2 de esta guía está dirigida a profesionales de la salud que se desempeñan en establecimientos de atención primaria, urgencias, nivel secundario ambulatorio y de atención cerrada.

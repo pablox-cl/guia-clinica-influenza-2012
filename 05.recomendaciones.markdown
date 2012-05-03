@@ -1,7 +1,7 @@
-RECOMENDACIONES
+Recomendaciones
 ===============
 
-DIAGNÓSTICO
+Diagnóstico
 -----------
 
 La sospecha diagnóstica se establece en toda persona que consulta por Enfermedad Respiratoria Tipo Influenza (ETI) con aparición brusca de los siguientes síntomas y signos[^30] [^31] [^32]: 
@@ -23,7 +23,7 @@ Todo paciente debe ser evaluado de manera completa por el médico, con el fin de
 
 Las IRAG son patologías que se incluyen en la vigilancia universal y en 6 hospitales se realiza de forma intensificada. Por su parte la Influenza está incorporada en la modalidad de Vigilancia de centros centinela. Todo caso fallecido en que se sospeche o se confirme Influenza debe ser notificado según el Decreto 158, las circulares correspondientes a la vigilancia de influenza y de IRAG, mediante el formulario correspondiente [^30] [^33] [^34](Anexo 1).
 
-MANEJO CLÍNICO
+Manejo clínico
 --------------
 
 El manejo de los pacientes con Influenza se basa en las medidas generales aplicadas a todo paciente que lo requiera y un tratamiento específico con antivirales de manera ambulatoria para adultos y niños con antecedentes que aumenten el riesgo de enfermedad respiratoria aguda grave. A su vez el tratamiento con antivirales se recomienda a todo paciente hospitalizado por ETI o por influenza.
