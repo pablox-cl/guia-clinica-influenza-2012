@@ -1,4 +1,4 @@
-DESARROLLO DE LA GUÍA 
+﻿Desarrollo de la Guía
 =====================
 
 GRUPO DE TRABAJO
@@ -90,7 +90,6 @@ Dr. Christian García        Jefe del Departamento de Enfermedades Transmisibles
                             Ministerio de Salud 
 Pablo Olmos De Aguilera     Interno de Medicina
                             Universidad Católica del Norte
-                            Autor en matasanos.org
 --------------------------  --------------------------------------------------------
 
 

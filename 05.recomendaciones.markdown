@@ -4,7 +4,7 @@ RECOMENDACIONES
 DIAGNÓSTICO
 -----------
 
-La sospecha diagnóstica se establece en toda persona que consulta por Enfermedad Respiratoria Tipo Influenza (ETI) con aparición brusca de los siguientes síntomas y signos: 
+La sospecha diagnóstica se establece en toda persona que consulta por Enfermedad Respiratoria Tipo Influenza (ETI) con aparición brusca de los siguientes síntomas y signos[^30] [^31] [^32]: 
 
 *  Fiebre ≥ a 38,5ºC axilar y 
 *  Tos 
@@ -17,11 +17,11 @@ Asociado a uno o más de los siguientes síntomas:
 
 Y contacto con caso ETI en período de circulación viral alta.
 
-En toda persona que se hospitaliza por infección respiratoria aguda grave (IRAG) o neumonía sin causa etiológica conocida se debe sospechar de la Influenza como diagnóstico30. La Confirmación etiológica se efectúa mediante la realización de Inmunofluorescencia (IF). Debe tomarse en cuenta que una IF negativa NO descarta influenza en especial en períodos de alta circulación del virus.
+En toda persona que se hospitaliza por infección respiratoria aguda grave (IRAG) o neumonía sin causa etiológica conocida se debe sospechar de la Influenza como diagnóstico[^30]. La Confirmación etiológica se efectúa mediante la realización de Inmunofluorescencia (IF) [^30]. Debe tomarse en cuenta que una IF negativa NO descarta influenza en especial en períodos de alta circulación del virus[^7].
 
 Todo paciente debe ser evaluado de manera completa por el médico, con el fin de descartar otras causas infecciosas frecuentes con síntomas similares a la influenza. En las edades extremas (adultos mayores y lactantes) se debe tener en cuenta la posibilidad de una Neumonía Bacteriana como causa concomitante a la influenza o como una alternativa diagnóstica.
 
-Las IRAG son patologías que se incluyen en la vigilancia universal y en 6 hospitales se realiza de forma intensificada. Por su parte la Influenza está incorporada en la modalidad de Vigilancia de centros centinela. Todo caso fallecido en que se sospeche o se confirme Influenza debe ser notificado según el Decreto 158, las circulares correspondientes a la vigilancia de influenza y de IRAG, mediante el formulario correspondiente30 20 21(Anexo 1).
+Las IRAG son patologías que se incluyen en la vigilancia universal y en 6 hospitales se realiza de forma intensificada. Por su parte la Influenza está incorporada en la modalidad de Vigilancia de centros centinela. Todo caso fallecido en que se sospeche o se confirme Influenza debe ser notificado según el Decreto 158, las circulares correspondientes a la vigilancia de influenza y de IRAG, mediante el formulario correspondiente [^30] [^33] [^34](Anexo 1).
 
 MANEJO CLÍNICO
 --------------
@@ -43,7 +43,7 @@ Junto a las medidas generales los adultos deben ser abordados según las recomen
 
 a.  Tratamiento antiviral
 
-Se recomienda el tratamiento antiviral a aquellos pacientes adultos que presenten alguna condición de riesgo para enfermedad respiratoria aguda grave (Cuadro Nº1), y cuyo cuadro clínico corresponda a un caso sospechoso o confirmado de influenza5. Se recomienda  iniciar su administración antes de 48 hrs desde la aparición de los síntomas para lograr la disminución de su duración.  El efecto se ha demostrado mínimo si es más tardío,  pero él  es tanto mayor cuanto mas precoz es su inicio42 . A su vez todo adulto hospitalizado por IRA grave por Influenza o ETI debe recibir tratamiento antiviral lo antes posible.
+Se recomienda el tratamiento antiviral a aquellos pacientes adultos que presenten alguna condición de riesgo para enfermedad respiratoria aguda grave (Cuadro Nº1), y cuyo cuadro clínico corresponda a un caso sospechoso o confirmado de influenza [^5] [^6] [^7] [^35]. Se recomienda  iniciar su administración antes de 48 hrs desde la aparición de los síntomas para lograr la disminución de su duración.  El efecto se ha demostrado mínimo si es más tardío,  pero él  es tanto mayor cuanto mas precoz es su inicio[^42]. A su vez todo adulto hospitalizado por IRA grave por Influenza o ETI debe recibir tratamiento antiviral lo antes posible[^5] [^6] [^8].
 
 : Cuadro N°1: Condiciones de riesgo para enfermdad respiratoria aguda grave del Adulto
 
@@ -100,7 +100,7 @@ Junto a las medidas generales los niños deben ser abordados según las recomend
 
 a.  Tratamiento antiviral 
 
-Se recomienda la indicación de tratamiento antiviral a aquellos niños que presenten alguna condición de riesgo para enfermedad respiratoria aguda grave (Cuadro Nº2), y cuyo cuadro clínico corresponda a la definición de caso sospechoso o confirmado de influenza. Se recomienda  iniciar su administración antes de 48 hrs desde la aparición de los síntomas para lograr la disminución de su duración. El efecto se ha demostrado mínimo si es más tardío,  pero él  es tanto mayor cuanto mas precoz es su inicio42. A su vez todo niño hospitalizado por IRAG por Influenza o ETI debe recibir tratamiento antiviral lo antes posible.
+Se recomienda la indicación de tratamiento antiviral a aquellos niños que presenten alguna condición de riesgo para enfermedad respiratoria aguda grave (Cuadro Nº2), y cuyo cuadro clínico corresponda a la definición de caso sospechoso o confirmado de influenza[^5] [^6] [^7] [^35] [^38]. Se recomienda  iniciar su administración antes de 48 hrs desde la aparición de los síntomas para lograr la disminución de su duración. El efecto se ha demostrado mínimo si es más tardío,  pero él  es tanto mayor cuanto mas precoz es su inicio[^42]. A su vez todo niño hospitalizado por IRAG por Influenza o ETI debe recibir tratamiento antiviral lo antes posible[^5] [^6] [^8].
 
 : Cuadro N°2: Condiciones de riesgo para enfermdad respiratoria aguda grave en niños
 
@@ -154,7 +154,7 @@ Edad paciente         Dosificación oseltamivir
 
 *Dosificación de oseltamivir para lactantes prematuros: 1 mg/ kg dosis cada 12 horas por 5 días.
 
-**Zanamivir**: Es una alternativa para el tratamiento la infección por virus influenza en niños que presenten intolerancia a oseltamivir. Su uso está aprobado por el Instituto de Salud Pública (ISP) para el tratamiento en mayores de 7 años.
+**Zanamivir**: Es una alternativa para el tratamiento la infección por virus influenza en niños que presenten intolerancia a oseltamivir. Su uso está aprobado por el Instituto de Salud Pública (ISP) para el tratamiento en mayores de 7 años [^39].
 
 Dosificación para 7 o más años: 2 inhalaciones cada 12 hrs. por 5 días. (5mg. cada 12 hrs. por 5 días)
 
@@ -179,19 +179,19 @@ Se debe indicar la hospitalización a todo paciente que cumpla con la definició
 
 ### Indicaciones en adultos y niños hospitalizados ###
 
-*  Iniciar tratamiento antiviral lo antes posible a todo paciente que se hospitalice por Influenza.
+*  Iniciar tratamiento antiviral lo antes posible a todo paciente que se hospitalice por Influenza[^7].
 *  Mantener la separación de al menos un metro entre pacientes en las salas de atención.
 *  Aislamiento de pacientes en habitación individual o, en caso necesario, en habitación compartida con pacientes con la misma enfermedad.
 *  Solicitar muestra respiratoria para estudio por IF, test pack viral, según técnica localmente disponible.
 *  Buenos hábitos al toser o estornudar: cubrir con pañuelos desechables boca y nariz al toser o estornudar, o como alternativa cubrir boca y nariz con antebrazo.En ambos casos realizar lavado de manos posterior.
 *  Limitar el contacto del paciente con otras personas (personal de salud, familiares y visitas). 
 
-Precauciones a tomar por el personal de salud:
+Precauciones a tomar por el personal de salud[^40].:
 
-*  Higiene de manos (lavado con agua y jabón o uso de soluciones antisépticas con alcohol) antes y después de atender a un paciente.
-*  Uso de guantes si se tocan mucosas o secreciones.
-*  Protección facial (mascarilla, antiparras, escudos faciales, etc.) y uso de delantal y/o pecheras, especialmente si hay posibilidad de salpicaduras.
-*  En caso de traslado el paciente debe utilizar mascarilla de tipo quirúrgico si lo tolera.
+*  Higiene de manos (lavado con agua y jabón o uso de soluciones antisépticas con alcohol) antes y después de atender a un paciente[^9].
+*  Uso de guantes si se tocan mucosas o secreciones[^9].
+*  Protección facial (mascarilla, antiparras, escudos faciales, etc.) y uso de delantal y/o pecheras, especialmente si hay posibilidad de salpicaduras[^9].
+*  En caso de traslado el paciente debe utilizar mascarilla de tipo quirúrgico si lo tolera[^9].
 *  Limpieza de superficies de examen entre pacientes o uso de sabanilla desechable (por ejemplo: de papel) en las superficies de examen que se cambia entre pacientes.  Si las superficies no desechables se encuentran visiblemente contaminadas con materia orgánica (Ej: secreciones respiratorias): limpieza por arrastre seguida de limpieza con uso de desinfectante en la superficie.
 *  Adecuado manejo de equipos, desechos y ropa de pacientes: Equipos de uso exclusivo del paciente, de no ser así se debe limpiar y desinfectar con alcohol u otro desinfectante. Tratar desechos como desechos clínicos.
 *  Lavar ropa con procedimientos de rutina y usar guantes no estériles. Fortalecer medidas de control de infección intrahospitalaria
@@ -206,13 +206,13 @@ Contacto cercano se refiere al contacto a menos de 1 mt. por un tiempo de exposi
 
 b.  Indicaciones de Quimioprofilaxis
 
-La quimioprofilaxis ha demostrado eficacia en la prevención de la influenza en contactos y contactos cercanos. Se recomienda el uso de quimioprofilaxis en contactos que presenten las condiciones riesgo que se señalan a continuación.
+La quimioprofilaxis ha demostrado eficacia en la prevención de la influenza en contactos y contactos cercanos. Se recomienda el uso de quimioprofilaxis en contactos que presenten las condiciones riesgo que se señalan a continuación[^8] [^10] [^11] [^12] [^13] [^14] [^15] [^16].
 
 Individuos con las siguientes condiciones de riesgo:
 
 *  Embarazada: Vacunada o no, que habita bajo el mismo techo o es contacto cercano de un paciente sospechoso o confirmado con influenza.
-*  Paciente inmunodeprimido o con terapia inmunosupresora: Vacunado o no que habita bajo el mismo techo o es contacto cercano de un paciente sospechoso o confirmado con influenza.
-*  Personal de Salud No vacunado que: Haya realizado atención clínica directa o administrativa a menos de un metro y por más de 15 minutos de un paciente sospechoso o confirmado con influenza, sin utilizar barrera de protección.
+*  Paciente inmunodeprimido o con terapia inmunosupresora: Vacunado o no que habita bajo el mismo techo o es contacto cercano de un paciente sospechoso o confirmado con influenza[^41].
+*  Personal de Salud No vacunado que: Haya realizado atención clínica directa o administrativa a menos de un metro y por más de 15 minutos de un paciente sospechoso o confirmado con influenza, sin utilizar barrera de protección[^7] [^8].
 
 c.  Antivirales para quimioprofilaxis
 
@@ -250,8 +250,8 @@ Edad paciente         Dosificación oseltamivir
  > 3 meses < 1 año      3   mg/kg c/24 horas      
 --------------------------------------------------
 
-**En menores de tres meses su uso no está recomendado, salvo situación crítica: Paciente hospitalizado por compromiso respiratorio bajo o con patología asociada de riesgo de enfermedad grave por influenza.
+**En menores de tres meses su uso no está recomendado, salvo situación crítica: Paciente hospitalizado por compromiso respiratorio bajo o con patología asociada de riesgo de enfermedad grave por influenza[^7] [^17].
 
-**Zanamivir**: Es una alternativa para la quimioprofilaxis en mayores de 5 años y que presenten intolerancia o contraindicaciones al oseltamivir. Su uso está aprobado por el Instituto de Salud Pública (ISP) para quimioprofilaxis en mayores de 5 años 39. Las contraindicaciones para el uso en quimioprofilaxis son: Niños menores de 5 años, Hiperreactividad bronquial, Asma, Enfermedad bronquial obstructiva crónica37.
+**Zanamivir**: Es una alternativa para la quimioprofilaxis en mayores de 5 años y que presenten intolerancia o contraindicaciones al oseltamivir. Su uso está aprobado por el Instituto de Salud Pública (ISP) para quimioprofilaxis en mayores de 5 años [^39]. Las contraindicaciones para el uso en quimioprofilaxis son: Niños menores de 5 años, Hiperreactividad bronquial, Asma, Enfermedad bronquial obstructiva crónica[^37].
 
 Dosificación para Adultos y Niños mayores de 5 años: 2 inhalaciones cada 24 hrs. por 10 días (5mg. /día por 10 días).
