@@ -1,86 +1,86 @@
 Bibliografía
 ============
 
-[^1]: http://www.gradeworkinggroup.org/ revisado el 8 de febrero 2012 
+1: http://www.gradeworkinggroup.org/ revisado el 8 de febrero 2012 
 
-[^2]: Gordon Guyatt, David Gutterman, Michael H. Baumann, Doreen Addrizzo-Harris, Elaine M. Hylek, Barbara Phillips, Gary Raskob, Sandra Grading Strength of Recommendations and Quality of Evidence in Clinical Guidelines : Report From an American College of Chest Physicians Task Force, , Chest 2006;129; 174-181 
+2: Gordon Guyatt, David Gutterman, Michael H. Baumann, Doreen Addrizzo-Harris, Elaine M. Hylek, Barbara Phillips, Gary Raskob, Sandra Grading Strength of Recommendations and Quality of Evidence in Clinical Guidelines : Report From an American College of Chest Physicians Task Force, , Chest 2006;129; 174-181 
 
-[^3]: Guyatt G, Oxman AD, Akl E, Kunz R, Vist G, Brozek J, Norris S, Falck-Ytter Y, Glasziou P, Debeer H, Jaeschke R, Rind D, Meerpohl J, Dahm P, Schünemann HJ. GRADE guidelines 1. IntroductionGRADE evidence profiles and summary of findings tables. J Clin Epidemiol. 2011 Jan 3 
+3: Guyatt G, Oxman AD, Akl E, Kunz R, Vist G, Brozek J, Norris S, Falck-Ytter Y, Glasziou P, Debeer H, Jaeschke R, Rind D, Meerpohl J, Dahm P, Schünemann HJ. GRADE guidelines 1. IntroductionGRADE evidence profiles and summary of findings tables. J Clin Epidemiol. 2011 Jan 3 
 
-[^4]: Balshem H, Helfand M, Schunemann HJ, Oxman AD, Kunz R, Brozek J, Vist GE, Falck-Ytter Y, Meerpohl J, Norris S, Guyatt GH. GRADE guidelines 3: rating the quality of evidence - introduction. J Clin Epidemiol. 2011 Jan 6 
+4: Balshem H, Helfand M, Schunemann HJ, Oxman AD, Kunz R, Brozek J, Vist GE, Falck-Ytter Y, Meerpohl J, Norris S, Guyatt GH. GRADE guidelines 3: rating the quality of evidence - introduction. J Clin Epidemiol. 2011 Jan 6 
 
-[^5]: Harper SA, Bradley JS, Englund JA, et al. Seasonal influenza in adults and children—diagnosis, treatment, chemoprophylaxis, and institutional outbreak management: clinical practice guidelines of the Infectious Diseases Society of America. Clin Infect Dis 2009;48:1003–32. 
+5: Harper SA, Bradley JS, Englund JA, et al. Seasonal influenza in adults and children—diagnosis, treatment, chemoprophylaxis, and institutional outbreak management: clinical practice guidelines of the Infectious Diseases Society of America. Clin Infect Dis 2009;48:1003–32. 
 
-[^6]: Bautista E, Chotpitayasunondh T, Gao Z, et al. Clinical aspects of pandemic 2009 influenza A (H1N1) virus infection. N Engl J Med 2010;362:1708–19. 
+6: Bautista E, Chotpitayasunondh T, Gao Z, et al. Clinical aspects of pandemic 2009 influenza A (H1N1) virus infection. N Engl J Med 2010;362:1708–19. 
 
-[^7]: Centers for Disease Control and Prevention. Antiviral Agents for the Treatment and Chemoprophylaxis of InfluenzaRecommendations of the Advisory Committee on Immunization Practices.MMWR2011;60(No. RR-1: 
+7: Centers for Disease Control and Prevention. Antiviral Agents for the Treatment and Chemoprophylaxis of InfluenzaRecommendations of the Advisory Committee on Immunization Practices.MMWR2011;60(No. RR-1: 
 
-[^8]: CDC. Updated interim recommendations for the use of antiviral medications in the treatment and prevention of influenza for the 2009–10 season. Atlanta, GA: US Department of Health and Human Services, CDC; 2009. Available at http://www.cdc.gov/H1N1flu/recommendations. htm 
+8: CDC. Updated interim recommendations for the use of antiviral medications in the treatment and prevention of influenza for the 2009–10 season. Atlanta, GA: US Department of Health and Human Services, CDC; 2009. Available at http://www.cdc.gov/H1N1flu/recommendations. htm 
 
-[^9]: Jefferson T, Del Mar C, Dooley L, Ferroni E et al,,Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review BMJ 2009;339:b3675 
+9: Jefferson T, Del Mar C, Dooley L, Ferroni E et al,,Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review BMJ 2009;339:b3675 
 
-[^10]: Monto AS, Robinson DP, Herlocher ML, et al. Zanamivir in the prevention of influenza among healthy adults: a randomized controlled trial. JAMA 1999;282:31–5
+10: Monto AS, Robinson DP, Herlocher ML, et al. Zanamivir in the prevention of influenza among healthy adults: a randomized controlled trial. JAMA 1999;282:31–5
 
-[^11]: Hayden FG, Atmar RL, Schilling M, et al. Use of the selective oral neuraminidase inhibitor oseltamivir to prevent influenza. N Engl J Med 1999;341:1336–43. 
+11: Hayden FG, Atmar RL, Schilling M, et al. Use of the selective oral neuraminidase inhibitor oseltamivir to prevent influenza. N Engl J Med 1999;341:1336–43. 
 
-[^12]: Hayden FG, Gubareva LV, Monto AS, et al. Inhaled zanamivir for the prevention of influenza in families. Zanamivir Family Study Group. N Engl J Med 2000;343:1282–9. 
+12: Hayden FG, Gubareva LV, Monto AS, et al. Inhaled zanamivir for the prevention of influenza in families. Zanamivir Family Study Group. N Engl J Med 2000;343:1282–9. 
 
-[^13]: Welliver R, Monto AS, Carewicz O, et al. Effectiveness of oseltamivir in preventing influenza in household contacts: a randomized controlled trial. JAMA 2001;285:748–54.
+13: Welliver R, Monto AS, Carewicz O, et al. Effectiveness of oseltamivir in preventing influenza in household contacts: a randomized controlled trial. JAMA 2001;285:748–54.
 
-[^14]: Monto AS, Webster A, Keene O. Randomized, placebo-controlled studies of inhaled zanamivir in the treatment of influenza A and B: pooled efficacy analysis. J Antimicrob Chemother 1999;44(Suppl B):23–9. 
+14: Monto AS, Webster A, Keene O. Randomized, placebo-controlled studies of inhaled zanamivir in the treatment of influenza A and B: pooled efficacy analysis. J Antimicrob Chemother 1999;44(Suppl B):23–9. 
 
-[^15]: Monto AS, Pichichero ME, Blanckenberg SJ, et al. Zanamivir prophylaxis: an effective strategy for the prevention of influenza types A and B within households. J Infect Dis 2002;186:1582–8. 
+15: Monto AS, Pichichero ME, Blanckenberg SJ, et al. Zanamivir prophylaxis: an effective strategy for the prevention of influenza types A and B within households. J Infect Dis 2002;186:1582–8. 
 
-[^16]: Bowles SK, Lee W, Simor AE, et al. Use of oseltamivir during influenza outbreaks in Ontario nursing homes, 1999–2000. J Am Geriatr Soc 2002;50:608–16 
+16: Bowles SK, Lee W, Simor AE, et al. Use of oseltamivir during influenza outbreaks in Ontario nursing homes, 1999–2000. J Am Geriatr Soc 2002;50:608–16 
 
-[^17]: Association of Medical Microbiology and Infectious Disease Canada: The Use of Antiviral Drugs for Influenza: Guidance for Practitioners 2011-2012 
+17: Association of Medical Microbiology and Infectious Disease Canada: The Use of Antiviral Drugs for Influenza: Guidance for Practitioners 2011-2012 
 
-[^18]: Cowling BJ, Chan KH, Fang VJ, et al. Comparative epidemiology of pandemic and seasonal influenza A in households. N Engl J Med 2010;362:2175–84. 
+18: Cowling BJ, Chan KH, Fang VJ, et al. Comparative epidemiology of pandemic and seasonal influenza A in households. N Engl J Med 2010;362:2175–84. 
 
-[^19]: Cox NJ, Subbarao K. Influenza. Lancet 1999;354:1277–82 
+19: Cox NJ, Subbarao K. Influenza. Lancet 1999;354:1277–82 
 
-[^20]: CDC. Seasonal Influenza Available http://www.cdc.gov/flu/about/disease/index.htm 
+20: CDC. Seasonal Influenza Available http://www.cdc.gov/flu/about/disease/index.htm 
 
-[^21]: Cowling BJ, Fang VJ, Riley S, et al. Estimation of the serial interval of influenza. Epidemiology 2009;20:344–7. 
+21: Cowling BJ, Fang VJ, Riley S, et al. Estimation of the serial interval of influenza. Epidemiology 2009;20:344–7. 
 
-[^22]: Committee on Infectious Diseases, Recommendations for Prevention and Control of Influenza in Children, 2011- 2012, Pediatrics 2011;128;813; originally published online September 2, 2011 
+22: Committee on Infectious Diseases, Recommendations for Prevention and Control of Influenza in Children, 2011- 2012, Pediatrics 2011;128;813; originally published online September 2, 2011 
 
-[^23]: http://www.cdc.gov/flu revisado el 2 de febrero 2012 
+23: http://www.cdc.gov/flu revisado el 2 de febrero 2012 
 
-[^24]: Fuente de datos DEIS Minsal, analizado por Depto de Enfermedades Transmisibles. DIPRECE. Ministerio de Salud 
+24: Fuente de datos DEIS Minsal, analizado por Depto de Enfermedades Transmisibles. DIPRECE. Ministerio de Salud 
 
-[^25]: Dabanch J, Perret C, Nájera M, González C, Guerrero A, Olea A, Fasce R, Morales C, Vega J,Age as Risk Factor for Death from Pandemic (H1N1) 2009, Chile Emerging Infectious Diseases, Vol. 17, No. 7, July 2011 
+25: Dabanch J, Perret C, Nájera M, González C, Guerrero A, Olea A, Fasce R, Morales C, Vega J,Age as Risk Factor for Death from Pandemic (H1N1) 2009, Chile Emerging Infectious Diseases, Vol. 17, No. 7, July 2011 
 
-[^26]: Gentile A, Baki J, Russ C, Ruvinsky S et al, Estudio de las enfermedades respiratorias por virus Influenza A H1N1 (pH1N1) en niños internados durante el año de la pandemia, Arch Argent Pediatr 2011;109(3):198-203
+26: Gentile A, Baki J, Russ C, Ruvinsky S et al, Estudio de las enfermedades respiratorias por virus Influenza A H1N1 (pH1N1) en niños internados durante el año de la pandemia, Arch Argent Pediatr 2011;109(3):198-203
 
-[^27]: Torres J, O’Ryan M, Herve B, Espinoza R, Acuña G, Mañalich J, Chomalí M, Impact of the Novel Influenza A (H1N1)during the 2009 Autumn-Winter Season in a Large Hospital Setting in Santiago, Chile, CID 2010:50 (15 March) 
+27: Torres J, O’Ryan M, Herve B, Espinoza R, Acuña G, Mañalich J, Chomalí M, Impact of the Novel Influenza A (H1N1)during the 2009 Autumn-Winter Season in a Large Hospital Setting in Santiago, Chile, CID 2010:50 (15 March) 
 
-[^28]: Informe de Influenza Semana Epidemiológica 1 a 52 de 2011 (2 de enero al 31 de diciembre). h t tp: / /epi .mi n s a l . c l /epi / h tml /bolet s / repor tes / I n f l uen z a / I n formeI n f l uen z a S E522011.pdf Revisado el 8 de febrero 2012
+28: Informe de Influenza Semana Epidemiológica 1 a 52 de 2011 (2 de enero al 31 de diciembre). h t tp: / /epi .mi n s a l . c l /epi / h tml /bolet s / repor tes / I n f l uen z a / I n formeI n f l uen z a S E522011.pdf Revisado el 8 de febrero 2012
 
-[^29]: Health Protection Services. HPA guidance on use of antiviral agents for the treatment and prophylaxis of influenza, 2011-12. Version 3. Health Protection Agency 2011 
+29: Health Protection Services. HPA guidance on use of antiviral agents for the treatment and prophylaxis of influenza, 2011-12. Version 3. Health Protection Agency 2011 
 
-[^30]: Normativa de vigilancia y control MINSAL: Circular B 51/20 del 14 Mayo 2010 
+30: Normativa de vigilancia y control MINSAL: Circular B 51/20 del 14 Mayo 2010 
 
-[^31]: Nicholson KG. Clinical features of influenza. Semin Respir Infect 1992;7:26–37. 
+31: Nicholson KG. Clinical features of influenza. Semin Respir Infect 1992;7:26–37. 
 
-[^32]: Dawood FS, Jain S, Finelli L, et al. Emergence of a novel swine-origin influenza A (H1N1) virus in humans. N Engl J Med 2009;360:2605–15 
+32: Dawood FS, Jain S, Finelli L, et al. Emergence of a novel swine-origin influenza A (H1N1) virus in humans. N Engl J Med 2009;360:2605–15 
 
-[^33]: Decreto Nº158/04 Reglamento sobre notificación de Enfermedades Transmisibles de Declaración Obligatoria, MINSAL 2005 
+33: Decreto Nº158/04 Reglamento sobre notificación de Enfermedades Transmisibles de Declaración Obligatoria, MINSAL 2005 
 
-[^34]: Guía de vigilancia intensificada de las Infecciones Respiratorias Agudas Graves (IRAG) MINSAL. http://epi.minsal.cl/epi/html/bolets/reportes/Influenza/Guia_de_Vigilancia_Intensificaca_ de_las_IRA_junio2011.pdf 
+34: Guía de vigilancia intensificada de las Infecciones Respiratorias Agudas Graves (IRAG) MINSAL. http://epi.minsal.cl/epi/html/bolets/reportes/Influenza/Guia_de_Vigilancia_Intensificaca_ de_las_IRA_junio2011.pdf 
 
-[^35]: Jefferson T, Jones MA, Doshi P, Del Mar CB, Heneghan CJ, Hama R, Thompson MJ. Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children. Cochrane Database of Systematic Reviews 2012, Issue 1. Art. No.: CD008965. DOI: 10.1002/14651858. CD008965.pub3. 
+35: Jefferson T, Jones MA, Doshi P, Del Mar CB, Heneghan CJ, Hama R, Thompson MJ. Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children. Cochrane Database of Systematic Reviews 2012, Issue 1. Art. No.: CD008965. DOI: 10.1002/14651858. CD008965.pub3. 
 
-[^36]: Roche Laboratories Inc. Tamiflu (oseltamivir phosphate) capsules and oral suspension [package insert]:. Nutley, NJ: Roche laboratories, Inc.; 2009. 
+36: Roche Laboratories Inc. Tamiflu (oseltamivir phosphate) capsules and oral suspension [package insert]:. Nutley, NJ: Roche laboratories, Inc.; 2009. 
 
-[^37]: Glaxo Wellcome Inc. Relenza (zanimivir for inhalation) [Package insert]:. Research Triangle Park, NC: Glaxo Wellcome, Inc.; 2009. 
+37: Glaxo Wellcome Inc. Relenza (zanimivir for inhalation) [Package insert]:. Research Triangle Park, NC: Glaxo Wellcome, Inc.; 2009. 
 
-[^38]: Wang K, Shun-Shin M, Gill P, Perera R, Harnden A. Neuraminidase inhibitors for preventing and treating influenza inchildren. Cochrane Database of Systematic Reviews 2012, Issue 1. Art. No.: CD002744. DOI: 0.1002/14651858.CD002744.pub3. 
+38: Wang K, Shun-Shin M, Gill P, Perera R, Harnden A. Neuraminidase inhibitors for preventing and treating influenza inchildren. Cochrane Database of Systematic Reviews 2012, Issue 1. Art. No.: CD002744. DOI: 0.1002/14651858.CD002744.pub3. 
 
-[^39]: Instituto de Salud Pública de Chile N° Registro ISP: F-2387/09 http://200.68.11.21/ RegistrosISP/fiFichaProducto.asp?RegistroISP=F-2387/09 revisado el 6 de febrero 2012 
+39: Instituto de Salud Pública de Chile N° Registro ISP: F-2387/09 http://200.68.11.21/ RegistrosISP/fiFichaProducto.asp?RegistroISP=F-2387/09 revisado el 6 de febrero 2012 
 
-[^40]: Circular Nº07 “Medidas de prevención y control de infecciones asociadas a la atención en salud en pacientes hospitalizados con influenza” MINSAL20 Agosto 2009 
+40: Circular Nº07 “Medidas de prevención y control de infecciones asociadas a la atención en salud en pacientes hospitalizados con influenza” MINSAL20 Agosto 2009 
 
-[^41]: Vu D, Peck AJ, Nichols WG, et al. Safety and tolerability of oseltamivir prophylaxis in hematopoietic stem cell transplant recipients: a retrospective case-control study. Clin Infect Dis 2007;45:187–93.
+41: Vu D, Peck AJ, Nichols WG, et al. Safety and tolerability of oseltamivir prophylaxis in hematopoietic stem cell transplant recipients: a retrospective case-control study. Clin Infect Dis 2007;45:187–93.
 
-[^42]: Prevention and control of Influenza (ACIP) CDC ; MMWR 2008 Aug 8 , 57
+42: Prevention and control of Influenza (ACIP) CDC ; MMWR 2008 Aug 8 , 57

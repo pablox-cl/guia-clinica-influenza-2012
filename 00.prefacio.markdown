@@ -6,7 +6,7 @@ En la Versión 4.2 de esta guía
 Gradación de la evidencia
 =========================
 
-Esta guía utiliza el sistema GRADE [^1] [^2] [^3] [^4].  Esta clasificación de las recomendaciones y la evidencia incluye el balance entre las consecuencias deseables y no deseables de las opciones alternativas. El sistema GRADE permite llevar, de manera más simple y precisa, las recomendaciones a la práctica diaria del proveedor de salud. A continuación se definen los 2 tipos de recomendaciones y sus implicancias y las 3 categorías de evidencia el sistema.
+Esta guía utiliza el sistema GRADE ^1^ ^2^ ^3^ ^4^.  Esta clasificación de las recomendaciones y la evidencia incluye el balance entre las consecuencias deseables y no deseables de las opciones alternativas. El sistema GRADE permite llevar, de manera más simple y precisa, las recomendaciones a la práctica diaria del proveedor de salud. A continuación se definen los 2 tipos de recomendaciones y sus implicancias y las 3 categorías de evidencia el sistema.
 
 Recomendaciones e implicancias
 ------------------------------
@@ -45,50 +45,50 @@ Recomendación                                                              Reco
 Adultos y Niños con factores de riesgo para enfermedad respiratoria aguda  Fuerte          Media
 grave cuyo cuadro clínico corresponda a un caso sospechoso o confirmado
 de influenza deben recibir tratamiento antiviral antes de 48 hrs desde la
-aparición de los síntomas [^5] [^6] [^7] [^35] [^38] [^42].
+aparición de los síntomas ^5^ ^6^ ^7^ ^35^ ^38^ ^42^.
 
 En los casos de Influenza en Adultos y Niños con criterios de gravedad o   Fuerte          Baja
-factores de riesgo debe considerarse la Hospitalización[^7].
+factores de riesgo debe considerarse la Hospitalización^7^.
 
 Niños o Adultos hospitalizado por IRA grave por Influenza debe recibir     Fuerte          Media
-tratamiento antiviral lo antes posible[^5] [^6] [^8].
+tratamiento antiviral lo antes posible^5^ ^6^ ^8^.
 
 Prevenir infecciones asociadas a la atención mediante higiene de manos,    Fuerte          Media
 protección facial y uso de delantal, mascarilla de tipo quirúrgico en
-caso de traslado el paciente[^9], preferir el aislamiento de pacientes en 
+caso de traslado el paciente^9^, preferir el aislamiento de pacientes en 
 pieza individual o mantener la separación de al menos un metro entre
 pacientes en las salas de atención.
 
 La Quimioprofilaxis debe ser administrada en contactos cercanos que        Fuerte          Alta
-presenten las condiciones de riesgo [^8] [^10] [^11] [^12] [^13] [^14]
-[^15].
+presenten las condiciones de riesgo ^8^ ^10^ ^11^ ^12^ ^13^ ^14^
+^15^.
 
 La Quimioprofilaxis con Oseltamivir en menores de tres meses no está       Débil           Media
-recomendada, salvo situación crítica [^7] [^17].
+recomendada, salvo situación crítica ^7^ ^17^.
 
 Los pacientes ambulatorios deben recibir educación en síntomas de          Fuerte          Baja
 gravedad para consultar precozmente ante agravamiento del cuadro
-clínico[^7].
+clínico^7^.
 
 La duración del tratamiento antiviral de rutina debe extenderse por        Fuerte          Alta
-5 días[^7].
+5 días^7^.
 
 La duración de la Quimioprofilaxis de rutina debe extenderse por           Fuerte          Alta
-10 días[^7].
+10 días^7^.
 
 Los niños entre 2 y 5 años con Influenza y sin comorbilidad manejados      Débil           Media
 ambulatoriamente deben tener indicación de antiviral de acuerdo a la
-evaluación clínica y seguimiento de cada caso[^7].
+evaluación clínica y seguimiento de cada caso^7^.
 
 Oseltamivir puede emplearse para el tratamiento antiviral en embarazadas   Fuerte          Media
- [^7]. [^17] [^36].
+ ^7^. ^17^ ^36^.
 
 En pacientes sin contraindicaciones al Zanamivir, puede utilizarse como    Fuerte          Alta
 alternativa cuando el Oseltamivir está contraindicado en casos con
-antecedentes de hipersensibilidad a Oseltamivir[^7]..
+antecedentes de hipersensibilidad a Oseltamivir^7^.
 
 Zanamivir está contraindicado en personas con Hiperreactividad bronquial,  Fuerte          Alta
 Asma Enfermedad bronquial obstructiva crónica y en niños menores de 7
 años para el tratamiento y menores de 5 años para la quimioprofilaxis
-[^37].
+^37^.
 -------------------------------------------------------------------------------------------------------

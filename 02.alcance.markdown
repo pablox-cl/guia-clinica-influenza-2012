@@ -5,4 +5,4 @@ La versión 4.2 de esta guía está dirigida a profesionales de la salud que se 
 
 Este documento cubre las recomendaciones de quimioprofilaxis y tratamiento antiviral de la Influenza para pacientes que requieran hospitalización y aquellos que consultan de manera ambulatoria.
 
-Estas recomendaciones deben ser aplicadas en la atención secundaria en todo momento del año. En la atención primaria se recomienda ser empleadas cuando la Autoridad Central (MINSAL) o la Autoridad Sanitaria Regional (SEREMI) definan el inicio del plan de invierno o indique que ha comenzado un período de incremento de circulación viral[^29].
+Estas recomendaciones deben ser aplicadas en la atención secundaria en todo momento del año. En la atención primaria se recomienda ser empleadas cuando la Autoridad Central (MINSAL) o la Autoridad Sanitaria Regional (SEREMI) definan el inicio del plan de invierno o indique que ha comenzado un período de incremento de circulación viral^29^.
