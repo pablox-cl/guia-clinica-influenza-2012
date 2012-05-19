@@ -92,3 +92,10 @@ Asma Enfermedad bronquial obstructiva crónica y en niños menores de 7
 años para el tratamiento y menores de 5 años para la quimioprofilaxis
 ^37^.
 -------------------------------------------------------------------------------------------------------
+
+![Manejo Clínico Adultos]
+![Manejo Clínico Niños]
+
+[Manejo Clínico Adultos]: images/manejo_clinico_adultos.png
+[Manejo Clínico Niños]: images/manejo_clinico_ninos.png
+
