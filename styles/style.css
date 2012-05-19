@@ -1,10 +1,80 @@
+/*
+ * Paleta de colores:
+ * #918F90 Shady Lady
+ * #E5E5E5 Athens Grey
+ * #444041 Scorpion (strong)
+ * #454142 Scorpion
+ * #231F20 Jaguar
+ * #1969BC Cornflower
+ * #EF2B3E Crimson
+ */
 
+@font-face {
+    font-family: "GobCL Light";
+    font-style: normal;
+    font-weight: normal;
+    src:url("gobCL_Light.otf");
+}
 
+@font-face {
+    font-family: "GobCL Bold";
+    font-style: normal;
+    font-weight: normal;
+    src:url("gobCL_Bold.otf");
+}
+
+body {
+    color: #454142;
+    font-family: "GobCL Light";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444041;
+    font-family: "GobCL Bold"
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+}
+
+p {
+}
+
+a:link {
+    color: #1969BC;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #EF2B3E;
+}
+
+table {
+    border-collapse: collapse;
+}
 
 table, th, td {
     border: 1px solid black;
 }
 
+tr.header {
+    background: #1969BC;
+    color: #FFF;
+}
+
+th {
+    text-align: center;
+}
+
+strong {
+    color: #231F20;
+}
+
 .page-break {
     page-break-before: always;
 }
+
