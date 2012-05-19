@@ -9,6 +9,6 @@ La vigilancia de influenza y la notificación de casos de influenza está regula
 
 2.  Todas las muertes por causa respiratoria o de causa desconocida en que se sospeche la influenza.
 
-*  Se indica su estudio y notificación dada la importancia de aclarar la etiología de estas muertes, especialmente en los pacientes previamente sanos. Para ello, se tomará muestras del tejido pulmonar por punción o autopsia que se enviarán al ISP. Además se tomarán dos muestras de sangre (2 a 5 ml) por punción venosa o cardíaca, que se conservarán congeladas en el nivel local para estudios complementarios si se descarta la influenza. Las muestras deberán ser adecuadamente rotuladas en dos tubos: uno con EDTA y otro sin anticoagulante.
-*  La notificación se realizará en el formulario “Formulario de Notificación Inmediata y Envío de Muestras a Confirmación de IRA Grave y Fallecidos por Influenza” (www.epi.minsal.cl).
-*  Las muestras de tejido pulmonar deben ser enviadas al ISP junto al formulario correspondiente.
+    *  Se indica su estudio y notificación dada la importancia de aclarar la etiología de estas muertes, especialmente en los pacientes previamente sanos. Para ello, se tomará muestras del tejido pulmonar por punción o autopsia que se enviarán al ISP. Además se tomarán dos muestras de sangre (2 a 5 ml) por punción venosa o cardíaca, que se conservarán congeladas en el nivel local para estudios complementarios si se descarta la influenza. Las muestras deberán ser adecuadamente rotuladas en dos tubos: uno con EDTA y otro sin anticoagulante.
+    *  La notificación se realizará en el formulario “Formulario de Notificación Inmediata y Envío de Muestras a Confirmación de IRA Grave y Fallecidos por Influenza” (www.epi.minsal.cl).
+    *  Las muestras de tejido pulmonar deben ser enviadas al ISP junto al formulario correspondiente.

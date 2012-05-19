@@ -118,7 +118,7 @@ Se recomienda la indicación de tratamiento antiviral a aquellos niños que pres
 
 *En niño o niña entre 2 y 5 años sin comorbilidad manejado ambulatoriamente, la indicación de antiviral deberá realizarse de acuerdo a la evaluación clínica y seguimiento de cada caso. 
 
-Oseltamivir: Es el tratamiento de elección en los niños que lo requieren, la dosificación debe ser ajustada según peso (Tabla 1 y 2).
+**Oseltamivir**: Es el tratamiento de elección en los niños que lo requieren, la dosificación debe ser ajustada según peso (Tabla 1 y 2).
 
 Contraindicaciones: Está contraindicado cuando existen antecedentes de Hipersensibilidad al oseltamivir.
 
@@ -196,7 +196,7 @@ Precauciones a tomar por el personal de salud^40^.:
 *  Adecuado manejo de equipos, desechos y ropa de pacientes: Equipos de uso exclusivo del paciente, de no ser así se debe limpiar y desinfectar con alcohol u otro desinfectante. Tratar desechos como desechos clínicos.
 *  Lavar ropa con procedimientos de rutina y usar guantes no estériles. Fortalecer medidas de control de infección intrahospitalaria
 
-### MANEJO DE CONTACTOS ###
+### Manejo de contactos ###
 
 a.  Definiciones
 
