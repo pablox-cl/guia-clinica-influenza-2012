@@ -3,13 +3,13 @@
 require 'rake/clean'
 
 EPUB_COVER_IMAGE="--epub-cover-image=images/cover.png"
-EPUB_STYLESHEET=
+EPUB_STYLESHEET="--epub-stylesheet=styles/style.css"
 EPUB_METADATA="--epub-metadata=metadata.xml"
 OUTPUT="guia_influenza.epub"
 
 desc "Convierte a epub"
 task :epub_all do
-  system "pandoc -S --table-of-contents #{EPUB_METADATA} #{EPUB_COVER_IMAGE} -o #{OUTPUT} title.txt *.markdown"
+  system "pandoc -S --table-of-contents #{EPUB_METADATA} #{EPUB_COVER_IMAGE} #{EPUB_STYLESHEET} -o #{OUTPUT} title.txt *.markdown"
   system "ebook-viewer #{OUTPUT}"
 end
 

@@ -93,9 +93,11 @@ años para el tratamiento y menores de 5 años para la quimioprofilaxis
 ^37^.
 -------------------------------------------------------------------------------------------------------
 
-![Manejo Clínico Adultos]
-![Manejo Clínico Niños]
+<div class="page-break"></div>
 
-[Manejo Clínico Adultos]: images/manejo_clinico_adultos.png
-[Manejo Clínico Niños]: images/manejo_clinico_ninos.png
+![Algoritmo Manejo Clínico Adultos](images/manejo_clinico_adultos.png)\
+
+<div class="page-break"></div>
+
+![Algoritmo Manejo Clínico Niños](images/manejo_clinico_ninos.png)\
 
